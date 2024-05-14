@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="Main Test ">
         <classes>
-            <class name="GoRest._07_Tekrar">
+            <class name="_05_PathAndJsonPath">
             </class>
         </classes>
     </test>
